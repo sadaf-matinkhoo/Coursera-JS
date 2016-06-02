@@ -14,15 +14,26 @@ div {
 }
 
 #div1 {
+	position: relative;
 	background-color: #ff9391;
 }
 
 #div2 {
+	position: relative;
 	background-color: #52efd2;
 }
 
 #div3 {
+	position: relative;
 	background-color: #ffd700;
+}
+
+#p1 {
+	background-color: #ffd700;
+	position: relative;
+	top: 0;
+	left: 5px;
+	border: 1px solid black;
 }
 
 @media (min-width: 992px) {
