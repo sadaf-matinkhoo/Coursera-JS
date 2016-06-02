@@ -2,12 +2,16 @@
   box-sizing: border-box;
 }
 
-p {
-	color: green;
-}
-
 .row {
   width: 100%;
+}
+
+h1 {
+	position: center;
+}
+
+div {
+	marg
 }
 
 #div1 {
