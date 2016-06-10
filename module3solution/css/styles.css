@@ -1,0 +1,57 @@
+#nav {
+	background-color: #ffe6e6;
+	border-color: #990000;
+	border-radius: 0;
+}
+
+#brand-name, #page-header, #nav-list {
+	font-family: 'Acme', sans-serif;
+	color: #990000;
+}
+
+#brand-name {
+	font-size: 3em;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #990000;	
+}
+
+a span {
+	color: #990000;	
+}
+
+.navbar-default .navbar-header .navbar-toggle {
+	border-color: #990000;
+}
+
+.navbar-default .navbar-collapse {
+	border-color: #990000;
+}
+
+/*#nav-list {
+	background-color: #ffcccc;
+}
+*/
+
+hr {
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: #990000;
+    background-color: #990000;
+    height: 1px;
+}
+
+#tall-section {
+	font-family: 'Acme', sans-serif;
+	color: #990000;
+	padding: 40px;
+	background-color: #ff9999;
+	height: 1000px;
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+
